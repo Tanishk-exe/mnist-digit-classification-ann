@@ -6,8 +6,9 @@ The goal was to understand how neural networks work in a real example.
 
 ###What I Did
 
-*Loaded the MNIST dataset
-*Normalized the pixel values
+-Loaded the MNIST dataset
+
+-Normalized the pixel values
 *Flattened the 28x28 images
 *Built an ANN using TensorFlow/Keras
 *Trained the model and tested its accuracy
