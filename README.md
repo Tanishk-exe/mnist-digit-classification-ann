@@ -1,10 +1,10 @@
-# mnist-digit-classification-ann
+# MNIST Digit Classification using ANN
 I built an Artificial Neural Network to classify handwritten digits (0–9) using the MNIST dataset.
 The goal was to understand how neural networks work in a real example.
 
 ---
 
-###What I Did
+### What I Did
 
 * Loaded the MNIST dataset
 * Normalized the pixel values
@@ -14,7 +14,7 @@ The goal was to understand how neural networks work in a real example.
 
 ---
 
-###Model Architecture
+### Model Architecture
 
 * Input layer (784 neurons)
 * Hidden layer with ReLU (128 neurons)
@@ -22,12 +22,12 @@ The goal was to understand how neural networks work in a real example.
 
 ---
 
-###Result
+### Result
 The model successfully predicts handwritten digits with high accuracy.
 
 ---
 
-###Tech Used
+### Tech Used
 
 * Python
 * NumPy
